@@ -1,7 +1,7 @@
 ChatHeader
 ==========
 
-Sample Android about ChatHeader technologie.
+Android Sample about ChatHeader technologie.
 
 Used by:
 
